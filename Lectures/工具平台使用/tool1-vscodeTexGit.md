@@ -40,7 +40,10 @@ style: |
 ---
 
 ### 2. vsocde + colab + github + Jupyter
-参考资料：https://medium.com/analytics-vidhya/colab-vs-code-github-jupyter-perfect-for-deep-learning-2b257ae94d01
+参考资料：
+1，https://medium.com/analytics-vidhya/colab-vs-code-github-jupyter-perfect-for-deep-learning-2b257ae94d01
+2. https://bebi103a.github.io/lessons/02/git_with_colab.html
+3. 
 
 - 使用 Vs Code 设置 Google Colab 远程机器
 - 将您的本地存储库放到 Colab 
