@@ -43,7 +43,8 @@ style: |
 参考资料：
 1，https://medium.com/analytics-vidhya/colab-vs-code-github-jupyter-perfect-for-deep-learning-2b257ae94d01
 2. https://bebi103a.github.io/lessons/02/git_with_colab.html
-3. 
+3. https://colab.research.google.com/github/JayThibs/jacques-blog/blob/master/_notebooks/2021-09-27-connect-to-colab-from-local-vscode.ipynb#scrollTo=WA2MmkhS0Prd 
+4. https://blog.csdn.net/king52113141314/article/details/122955879 
 
 - 使用 Vs Code 设置 Google Colab 远程机器
 - 将您的本地存储库放到 Colab 
