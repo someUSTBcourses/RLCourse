@@ -1,6 +1,6 @@
 ---
 marp: true
-footer: 'micl-ROS概念、安装和基本编程逻辑'
+footer: '强化学习实践'
 paginate: true
 style: |
   section a {
@@ -8,16 +8,19 @@ style: |
   }
 ---
 
-# 搭建环境：windows + wsl + docker
-## 1. 准备条件  
-## 2. 下载ros镜像并建立环境
-## 3. 测试小海龟程序
-## 4. 测试turtlebot3程序
-## 5. 总结下：建立基于ros的RL环境
+# 实践用平台
+## 1. docker / anaconda /colab 
+## 2. gym[ansium]库和常见的扩展
+## 3. 强化学习平台
+## 4. 多智能体强化学习平台
 ----
-## 1. 准备条件
-### (1) 安装 wsl2， 安装参考：https://learn.microsoft.com/zh-cn/windows/wsl/install； 打开powershell运行 wsl，进入wsl
-### (2) 安装docker
+## 1. docker / anaconda / colab
+### 主要目标：避免重复的环境配置
+
+### 程序：.ipython, .py  
+
+### colab的使用 
+### pytorch的使用 
 
 ----
 
