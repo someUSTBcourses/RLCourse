@@ -16,12 +16,21 @@ style: |
 ----
 ## 1. docker / anaconda / colab
 ### 主要目标：避免重复的环境配置
-
 ### 程序：.ipython, .py  
-
-### colab的使用 
+### colab的使用 参考李宏毅课程：Google_Colab_Tutorial_2023.ipynb
 ### pytorch的使用 
-
+#### 1. wsl上安装anaconda 
+```
+wget https://repo.continuum.io/archive/Anaconda3-5.2.0-Linux-x86_64.sh
+bash Anaconda3-5.2.0-Linux-x86_64.sh
+```
+#### 2. 创建环境
+```
+conda create -n DRLCourse python=3.8
+source activate DRLCourse
+conda install pytorch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1 pytorch-cuda=11.7 -c pytorch -c nvidia
+```
+#### 3. 测试环境 01_env.ipynb
 ----
 
 ### (3) 安装vcxsrv 这个步骤很重要，古月居建议的是vnc viewer需要注册不好，但是xlaunch后需要配置。但是感觉存不了呢？
