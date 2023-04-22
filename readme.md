@@ -1,20 +1,22 @@
----
-marp: true
-# theme: uncover
-theme: default
-#_class: invert
----
-
-![w:480](https://pic3.zhimg.com/v2-d437579e398d4c5d6330cc7fe61412ce_r.jpg)
-
 # **强化学习之理论和实践**
 
-## 我们的课程网站： [强化学习实践] 课程安排和要求 <!--fit-->
+## 课程主要内容
 
-We will enhance your VS Code as the slide deck writer. Mark `marp: true`, and write your deck!
+## 课程安排和要求
 
-[强化学习实践]: https://sites.google.com/view/rlmarl-drlcourse/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E8%AF%BE%E7%A8%8B
+| Lec  | Topics                                                       | 讲义 | 教材 | 分享者 | 讨论题目 |
+| ---- | ------------------------------------------------------------ | ---- | ---- | ------ | -------- |
+| 1    | - 强化学习的基本概念<br />- 强化学习求解的基本工具：Belman equation |      |      |        |          |
+| 2    |                                                              |      |      |        |          |
+| 3    |                                                              |      |      |        |          |
+| 4    |                                                              |      |      |        |          |
+| 5    |                                                              |      |      |        |          |
+| 6    |                                                              |      |      |        |          |
+| 7    |                                                              |      |      |        |          |
+| 8    |                                                              |      |      |        |          |
 
----
 
-```
+**纸上得来终觉浅，绝知此事要躬行**
+1. 本课程提供了常用库和算法的实践代码，理解强化学习的实现
+2. 本课程提供3个作业，加强对强化学习的理解
+
