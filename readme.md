@@ -2,7 +2,7 @@
 
 ## 课程主要内容
 
-## 课程安排和要求 test
+## 课程安排和要求
 
 | Lec  | Topics                                           | 讲义                                                         | 教材 | 分享题目                                                     | 参与同学 |
 | ---- | ------------------------------------------------ | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ | -------- |
@@ -19,6 +19,25 @@
 
 **纸上得来终觉浅，绝知此事要躬行**
 
-1. 本课程提供了常用库和算法的实践代码，理解强化学习的实现
+1. 本课程陆续完善：常用库和算法的实践代码，理解强化学习的实现
 2. 本课程提供3个作业，加强对强化学习的理解
+
+
+
+**课程参考书**
+
+1. Sutton， 《Reinforcement Learning: An Introduction》：http://incompleteideas.net/book/the-book-2nd.html，https://rl.qiwihui.com/zh-cn/latest/，
+
+2. 赵世钰，《Mathematical Foundations of Reinforcement Learning》，https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning
+
+3. 张伟楠，《动手学强化学习》https://hrl.boyuai.com/
+
+   
+
+### 课程分数组成
+
+成绩包括
+
+1. 30分， 最后一节课45分钟，雨课堂布置和提交3道题，开卷-不要直接搜索引擎和chat， 
+2. 70分， 课堂分享和大作业
 
