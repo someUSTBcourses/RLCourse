@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "RLCourse",
+			"path": "../../../gitee/RLCourse"
+		},
+		{
+			"name": "Epuck2-Introduction-Private",
+			"path": "../../../../mac-miclsirr/Epuck2-Introduction-Private"
+		}
+	],
+	"settings": {}
+}
